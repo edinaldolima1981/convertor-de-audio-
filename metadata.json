@@ -1,0 +1,6 @@
+{
+  "name": "Screen Recording to MP3 Converter & Architect Hub",
+  "description": "An interactive full-stack workspace demonstrating client-side audio extraction, high-fidelity MP3/WAV encoding, visual trimming, and extensive architectural, legal, and ethical guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
